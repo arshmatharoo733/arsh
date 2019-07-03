@@ -1,7 +1,1 @@
-![](1.png)
-![](2.png)
-![](3.png)
-![](4.png)
-![](5.png)
-![](6.png)
-![](7.png)
+![1](https://user-images.githubusercontent.com/52480197/60564304-c221a080-9d7c-11e9-8b32-0e1de276c12d.png)
